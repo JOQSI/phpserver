@@ -1,7 +1,6 @@
 <?php
-declare(strict_types=1);
-echo 'Hello World!';
 //Включаем запрет на неявное преобразование типов
+declare(strict_types=1);
 
 try {
     //Создаем экземпляр приложения и запускаем его
